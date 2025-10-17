@@ -1,0 +1,11 @@
+﻿# Visual Studio / IDE
+.vs/
+*.user
+*.suo
+
+# Build folders
+bin/
+obj/
+
+# HTTP history
+*.http
